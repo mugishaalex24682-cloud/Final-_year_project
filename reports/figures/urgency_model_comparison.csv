@@ -1,5 +1,0 @@
-Model,CV F1 Mean,CV F1 Std,Test F1,Test Accuracy
-Random Forest,0.7194,0.1043,0.55,0.5714
-Logistic Regression,0.6827,0.0518,0.5854,0.5952
-Gradient Boosting,0.6823,0.0814,0.5641,0.5952
-Decision Tree,0.6331,0.0811,0.6222,0.5952
